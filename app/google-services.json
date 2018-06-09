@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "170641236061",
+    "firebase_url": "https://angelhack-8988f.firebaseio.com",
+    "project_id": "angelhack-8988f",
+    "storage_bucket": "angelhack-8988f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170641236061:android:b8bb266818ff23a0",
+        "android_client_info": {
+          "package_name": "com.example.sureshkumarnair.angelhack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170641236061-u9i17v8hg1p4jl55oqegq8sgun7g3hmm.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "170641236061-u9i17v8hg1p4jl55oqegq8sgun7g3hmm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiEG0vKC2Xui5QyqauZs0kvrojdIdBp20"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
